@@ -8,7 +8,8 @@ a tool that functions to find subdomains of a website with the scanning method
 sudo apt-get install git
 sudo apt-get install python3
 ```
-
+## DOWNLOAD TERMUX FDROID
+* Unduh & Install Termux [`Klik Disini`](https://f-droid.org/repo/com.termux_118.apk)
 ### Instalation on Termux
 ```
 pkg update && pkg upgrade
