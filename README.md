@@ -12,6 +12,8 @@ sudo apt-get install git && sudo apt-get install python3
 ```makefile
 pkg update && pkg upgrade && pkg install git && pkg install python && git clone https://github.com/WilDev26/Scaning-domain && cd Scaning-domain && pip3 install -r requirements.txt && python3 SubDump
 ```
+### BISA HUBUNGI
+<a href="https://t.me/Willly21" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br><a
 <details>
 <summary>:zap: Author :</summary>
 - <strong><a href="https://github.com/WilDev26">WILDEV</a></strong>
