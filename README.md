@@ -11,19 +11,33 @@ sudo apt-get install python3
 
 ### Instalation on Termux
 ```
+pkg update && pkg upgrade
+```
+### Instalation GIT
+```
 pkg install git
+```
+### Instalation Python
+```
 pkg install python3
 ```
-
-### Usage Tool
+### Cloning Repositoriku
 ```
-git clone https://github.com/HunxByts/SubDump.git
-cd SubDump
+git clone https://github.com/WilDev26/Scaning-domain
+```
+### Jika sudah salin perintah & Enter
+```
+cd Scaning-domain
+```
+### instal modul salin perintah & Enter
+```
 pip3 install -r requirements.txt
-python3 SubDump.py
 ```
-
+Jalankan File nya salin lalu Enter
+```
+python3 SubDump
+```
 <details>
 <summary>:zap: Author :</summary>
-- <strong><a href="https://github.com/HunxByts">HunxByts</a></strong>
+- <strong><a href="https://github.com/WilDev26">WILDEV</a></strong>
 
