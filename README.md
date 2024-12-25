@@ -34,7 +34,7 @@ cd Scaning-domain
 ```
 pip3 install -r requirements.txt
 ```
-Jalankan File nya salin lalu Enter
+### Jalankan File nya salin lalu Enter
 ```
 python3 SubDump
 ```
