@@ -1,7 +1,7 @@
 # SubDump
 a tool that functions to find subdomains of a website with the scanning method
 
-<img src="https://github.com/HunxByts/SubDump/blob/main/asset/SD.png"/>
+<img src="https://github.com/WilDev26/Scaning-domain/blob/main/asset/Sub-dump.png"/>
 
 ### Instalation on Linux (deb)
 ```
